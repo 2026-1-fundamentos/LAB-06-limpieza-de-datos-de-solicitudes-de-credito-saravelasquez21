@@ -2,7 +2,6 @@
 Escriba el codigo que ejecute la accion solicitada en la pregunta.
 """
 import pandas as pd
-
 def pregunta_01():
     """
     Realice la limpieza del archivo "files/input/solicitudes_de_credito.csv".
